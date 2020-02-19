@@ -1,2 +1,2 @@
 # mod47
-Mod box
+Mod box 404 not found
